@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "New Stream",
+      "description": "hii!!! I am testing my new stream. Hope it will work well.",
+      "id": 1
+    },
+    {
+      "title": "first stream",
+      "description": "hey there.....I am trying my first stream here....hope it will work now",
+      "id": 2
+    },
+    {
+      "title": "Stream with user",
+      "description": "hii hello bolo kem chho ? maja ma ne badha...... asha rakhu chhu ke maja ma hoy,,,,,thanks bhai",
+      "userId": "116462348089830702922",
+      "id": 3
+    },
+    {
+      "title": "checking navigation",
+      "description": "hope it work accordingly it's design......peace",
+      "userId": "116462348089830702922",
+      "id": 4
+    }
+  ]
+}
